@@ -34,15 +34,25 @@ function createSchedulista($atts, $content = null) {
 }
 
 function createSchedulistaEmbedButton($code) {
-    $html =  "<a href='http://www.schedulista.com/schedule/$code'>";
-    $html .=  "<img title='Schedule an Appointment Online' src='http://www.schedulista.com/images/schedule_now_button.png' alt='Schedule an Online Appointment'>";
-    $html .=  "</a>";
+    $html =  <<<EOS
+<a href='http://$code.schedulista.com/?utm_source=schedule-now-button&utm_medium=wp&utm_campaign=app'>
+<img title='Schedule an Appointment Online'
+src='http://www.schedulista.com/assets/schedule_button.png' alt='Online
+Scheduling Software'>
+</a>
+EOS;
     return $html;
 }
 
 function createSchedulistaEmbedWidget($code, $width, $height) {
-    $html = "<iframe id='schedulista-widget' src='https://www.schedulista.com/schedule/$code?mode=widget' width='{$width}px' height='{$height}px' allowtransparency='true' frameborder='0' style='border-width: 0px; visibility: visible; background-color: transparent;' onload='this.style.visibility = \"visible\";'>";
-    $html .= "</iframe>";
+    $html = <<<EOS
+<iframe id="schedulista-widget-00"
+src="https://www.schedulista.com/schedule/$code?mode=widget"
+allowtransparency="true" frameborder="0" scrolling="no" width="100%"
+height="900px"></iframe>
+<script id="schedulista-widget-script-00" type="text/javascript"
+src="https://www.schedulista.com/schedule/$code/widget.js"></script>
+EOS;
     return $html;
 }
 
