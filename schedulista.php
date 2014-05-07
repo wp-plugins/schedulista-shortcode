@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Schedulista Shortcode Plugin
+Plugin Name: Schedulista Wordpress Plugin
 Description: Enables shortcode to embed Schedulista scheduling button or form. Usage: <code>[schedulista type="button" code="salon"]</code>.
-Version: 1.00
+Version: 2.00
 License: GPL
 Author: Schedulista
 Author URI: http://www.schedulista.com

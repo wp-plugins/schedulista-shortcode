@@ -1,7 +1,7 @@
 === Plugin Name ===
 
 Contributors: Felix Livni
-Plugin Name: Schedulista Shortcode
+Plugin Name: Scheduilsta - Online Scheduling for Your Business
 Plugin URI: http://www.schedulista.com?utm_source=wordpress-plugin
 Tags: online scheduling, online scheduling software, schedulista, form, shortcode, scheduling
 Author URI: http://www.schedulista.com?utm_source=wordpress-plugin
