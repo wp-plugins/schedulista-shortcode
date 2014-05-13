@@ -14,6 +14,11 @@ Stable tag: 2.0
 Version: 2.0
 License: GPL
 
+Let your clients schedule appointments online anywhere, anytime, from any
+device.
+
+== Description ==
+
 Schedulista is the simplest way to get your appointment calendar online.  
 [>> Learn more about
 Schedulista](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=learn_more)
