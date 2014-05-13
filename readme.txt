@@ -36,7 +36,7 @@ your business.
 *   Follow-up emails can be automatically sent and can be customized by the
 *   type of service, how many times a client has come in, etc.
 *   Integrates with many other services, including MailChimp, Stripe, and
-*   Facebook and Google Calendar.  
+*   Facebook and Google Calendar.
 [>> Learn more about Schedulista
 features](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=learn_features)
 
@@ -53,8 +53,7 @@ Schedulista has great customer support. Don’t believe us? Send us an email at
 
 = Schedulista Subscription =
 Schedulista requires a monthly subscription.  
-[>> View pricing
-trial](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=view_pricing)
+[>> View pricing](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=view_pricing)
 
 == Installation ==
 
