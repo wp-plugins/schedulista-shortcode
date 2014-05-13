@@ -4,7 +4,9 @@ Contributors: Felix Livni
 Plugin Name: Schedulista - Online Scheduling
 Plugin URI:
 http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link
-Tags: online scheduling, online scheduling software, schedulista, form, shortcode, scheduling
+Tags: online scheduling, online scheduling software, schedulista, scheduling,
+scheduilng widget, scheduling plugin, class scheduling, class booking, booking,
+appointment booking
 Author URI:
 http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link
 Author: Schedulista
@@ -35,8 +37,8 @@ your business.
 *   Classes
 *   Follow-up emails can be automatically sent and can be customized by the
 *   type of service, how many times a client has come in, etc.
-*   Integrates with many other services, including MailChimp, Stripe, and
-*   Facebook and Google Calendar.   
+*   Embeddable online scheduling widget and button. Wordpress scheduler plugin.
+*   Integrates with many other services, including MailChimp, Stripe, and Facebook and Google Calendar.   
 [>> Learn more about Schedulista
 features](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=learn_features)
 
