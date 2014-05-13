@@ -4,9 +4,7 @@ Contributors: Felix Livni
 Plugin Name: Schedulista - Online Scheduling
 Plugin URI:
 http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link
-Tags: online scheduling, online scheduling software, schedulista, scheduling,
-scheduilng widget, scheduling plugin, class scheduling, class booking, booking,
-appointment booking
+Tags: class scheduling, online scheduling, online scheduling software, schedulista, scheduling, scheduling widget, scheduling plugin, class booking, booking, appointment booking
 Author URI:
 http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link
 Author: Schedulista
