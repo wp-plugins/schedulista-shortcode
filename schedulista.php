@@ -2,7 +2,7 @@
 /*
 Plugin Name: Schedulista Wordpress Plugin
 Description: Enables shortcode to embed Schedulista scheduling button or form. Usage: <code>[schedulista type="button" code="salon"]</code>.
-Version: 2.00
+Version: 2.0
 License: GPL
 Author: Schedulista
 Author URI: http://www.schedulista.com
@@ -35,7 +35,8 @@ function createSchedulista($atts, $content = null) {
 
 function createSchedulistaEmbedButton($code) {
     $html =  <<<EOS
-<a href='http://$code.schedulista.com/?utm_source=schedule-now-button&utm_medium=wp&utm_campaign=app'>
+<a
+href='http://$code.schedulista.com/?utm_source=schedule-now-button&utm_medium=link&utm_campaign=wordpress-plugin'>
 <img title='Schedule an Appointment Online'
 src='http://www.schedulista.com/assets/schedule_button.png' alt='Online
 Scheduling Software'>
@@ -47,7 +48,7 @@ EOS;
 function createSchedulistaEmbedWidget($code, $width, $height) {
     $html = <<<EOS
 <iframe id="schedulista-widget-00"
-src="https://www.schedulista.com/schedule/$code?mode=widget"
+src="https://www.schedulista.com/schedule/$code?mode=widget?utm_source=widget&utm_medium=link&utm_campaign=wordpress-plugin"
 allowtransparency="true" frameborder="0" scrolling="no" width="100%"
 height="900px"></iframe>
 <script id="schedulista-widget-script-00" type="text/javascript"
