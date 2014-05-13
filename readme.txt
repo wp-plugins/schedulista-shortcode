@@ -14,19 +14,14 @@ Stable tag: 2.0
 Version: 2.0
 License: GPL
 
-Let your clients schedule appointments online anywhere, anytime, from any device.
-
-== Description ==
-
-Schedulista is the simplest way to get your appointment calendar online.
-Clients schedule appointments. You stay in control. 
-
+Schedulista is the simplest way to get your appointment calendar online.  
 [>> Learn more about
 Schedulista](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=learn_more)
 
 = Features =
 Schedulista has powerful tools to help you connect with your clients and grow
 your business.
+
 *   Beautiful scheduler that can be customized with your logo, photos, and
 *   colors.
 *   Free iPhone and Android app so you can manage your calendar on-the-go.
@@ -36,14 +31,14 @@ your business.
 *   Follow-up emails can be automatically sent and can be customized by the
 *   type of service, how many times a client has come in, etc.
 *   Integrates with many other services, including MailChimp, Stripe, and
-*   Facebook and Google Calendar.
+*   Facebook and Google Calendar.  
 [>> Learn more about Schedulista
 features](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=learn_features)
 
 = Who can use Schedulista? =
 Schedulista is **great for any business that depends on appointment calendar**.
 Including: Massage Therapists, Personal Trainers, Hair Stylists, Consultants,
-Universities, Corporate 
+Universities, Corporate  
 [>> Sign up for a 15-day free
 trial](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=sign-up)
 
@@ -52,14 +47,9 @@ Schedulista has great customer support. Don’t believe us? Send us an email at
 <support@schedulista.com> or give us a call at (800) 419-1672.
 
 = Schedulista Subscription =
-Schedulista requires a monthly subscription. 
+Schedulista requires a monthly subscription.  
 [>> View pricing
 trial](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=view_pricing)
-
-After you install the widget, you can copy the shortcode with the parameters
-for your business from the [web settings
-page](https://www.schedulista.com/settings/web) and paste it into your
-WordPress form.
 
 == Installation ==
 
