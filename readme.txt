@@ -53,7 +53,8 @@ Schedulista has great customer support. Don’t believe us? Send us an email at
 
 = Schedulista Subscription =
 Schedulista requires a monthly subscription.  
-[>> View pricing](http://www.schedulista.com/#pricing?utm_source=wordpress-plugin&utm_medium=link&utm_content=view_pricing)
+[>> View
+pricing](http://www.schedulista.com/?utm_source=wordpress-plugin&utm_medium=link&utm_content=view_pricing#pricing)
 
 == Installation ==
 
