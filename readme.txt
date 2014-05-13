@@ -1,7 +1,7 @@
 === Plugin Name ===
 
 Contributors: Felix Livni
-Plugin Name: Schedulista - Online Scheduling for Your Business
+Plugin Name: Schedulista - Online Scheduling
 Plugin URI:
 http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link
 Tags: online scheduling, online scheduling software, schedulista, form, shortcode, scheduling
@@ -14,7 +14,7 @@ Stable tag: 2.0
 Version: 2.0
 License: GPL
 
-Let your clients schedule appointments online anywhere, anytime, from any
+Online scheduling for your business. Let your clients schedule appointments online anywhere, anytime, from any
 device.
 
 == Description ==
