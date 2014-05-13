@@ -41,9 +41,9 @@ your business.
 features](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=learn_features)
 
 = Who can use Schedulista? =
-Schedulista is **great for any business that depends on appointment calendar**.
+Schedulista is **great for any business that depends on an appointment calendar**.
 Including: Massage Therapists, Personal Trainers, Hair Stylists, Consultants,
-Universities, Corporate  
+Universities, Corporations  
 [>> Sign up for a 15-day free
 trial](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=sign-up)
 
