@@ -36,7 +36,7 @@ your business.
 *   Follow-up emails can be automatically sent and can be customized by the
 *   type of service, how many times a client has come in, etc.
 *   Integrates with many other services, including MailChimp, Stripe, and
-*   Facebook and Google Calendar.
+*   Facebook and Google Calendar.   
 [>> Learn more about Schedulista
 features](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=learn_features)
 
