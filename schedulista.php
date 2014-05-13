@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Schedulista - Online Scheduling for Your Business
+Plugin Name: Schedulista - Online Scheduling
 Description: Enables shortcode to embed Schedulista scheduling button or form. Usage: <code>[schedulista type="button" code="salon"]</code>.
 Version: 2.0
 License: GPL
