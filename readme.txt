@@ -40,14 +40,14 @@ your business.
 *   Embeddable online scheduling widget and button. Wordpress scheduler plugin.
 *   Integrates with many other services, including MailChimp, Stripe, and Facebook and Google Calendar.   
 [>> Learn more about Schedulista
-features](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=learn_features)
+features](http://www.schedulista.com/features?utm_source=wordpress-plugin&utm_medium=link&utm_content=learn_features)
 
 = Who can use Schedulista? =
 Schedulista is **great for any business that depends on an appointment calendar**.
 Including: Massage Therapists, Personal Trainers, Hair Stylists, Consultants,
 Universities, Corporations  
 [>> Sign up for a 15-day free
-trial](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=sign-up)
+trial](https://www.schedulista.com/businesses/sign_up?utm_source=wordpress-plugin&utm_medium=link&utm_content=sign-up)
 
 = World Class Customer Support =
 Schedulista has great customer support. Don’t believe us? Send us an email at
@@ -55,7 +55,7 @@ Schedulista has great customer support. Don’t believe us? Send us an email at
 
 = Schedulista Subscription =
 Schedulista requires a monthly subscription.  
-[>> View pricing](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=view_pricing)
+[>> View pricing](http://www.schedulista.com/#pricing?utm_source=wordpress-plugin&utm_medium=link&utm_content=view_pricing)
 
 == Installation ==
 
