@@ -10,8 +10,8 @@ http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link
 Author: Schedulista
 Requires at least: 2.6
 Tested up to: 3.8.3
-Stable tag: 2.0
-Version: 2.0
+Stable tag: 2.1
+Version: 2.1
 License: GPL
 
 Online scheduling for your business. Let your clients schedule appointments online anywhere, anytime, from any

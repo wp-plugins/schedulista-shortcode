@@ -3,7 +3,7 @@
 Plugin Name: Schedulista - Online Scheduling
 Description: Embed the Schedulista online scheduling widget on your website.
 Plugin URI: http://wordpress.org/plugins/schedulista-shortcode/
-Version: 2.0
+Version: 2.1
 License: GPL
 Author: Schedulista
 Author URI: http://www.schedulista.com
