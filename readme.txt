@@ -1,18 +1,23 @@
 === Plugin Name ===
 
 Contributors: Felix Livni
-Plugin Name: Schedulista - Online Scheduling for Your Business
+Plugin Name: Schedulista - Online Scheduling
 Plugin URI:
 http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link
-Tags: online scheduling, online scheduling software, schedulista, form, shortcode, scheduling
+Tags: class scheduling, online scheduling, online scheduling software, schedulista, scheduling, scheduling widget, scheduling plugin, class booking, booking, appointment booking
 Author URI:
 http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link
 Author: Schedulista
 Requires at least: 2.6
 Tested up to: 3.8.3
-Stable tag: 2.0
-Version: 2.0
+Stable tag: 2.1
+Version: 2.1
 License: GPL
+
+Online scheduling for your business. Let your clients schedule appointments online anywhere, anytime, from any
+device.
+
+== Description ==
 
 Schedulista is the simplest way to get your appointment calendar online.  
 [>> Learn more about
@@ -30,17 +35,17 @@ your business.
 *   Classes
 *   Follow-up emails can be automatically sent and can be customized by the
 *   type of service, how many times a client has come in, etc.
-*   Integrates with many other services, including MailChimp, Stripe, and
-*   Facebook and Google Calendar.  
+*   Embeddable online scheduling widget and button. Wordpress scheduler plugin.
+*   Integrates with many other services, including MailChimp, Stripe, and Facebook and Google Calendar.   
 [>> Learn more about Schedulista
-features](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=learn_features)
+features](http://www.schedulista.com/features?utm_source=wordpress-plugin&utm_medium=link&utm_content=learn_features)
 
 = Who can use Schedulista? =
-Schedulista is **great for any business that depends on appointment calendar**.
+Schedulista is **great for any business that depends on an appointment calendar**.
 Including: Massage Therapists, Personal Trainers, Hair Stylists, Consultants,
-Universities, Corporate  
+Universities, Corporations  
 [>> Sign up for a 15-day free
-trial](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=sign-up)
+trial](https://www.schedulista.com/businesses/sign_up?utm_source=wordpress-plugin&utm_medium=link&utm_content=sign-up)
 
 = World Class Customer Support =
 Schedulista has great customer support. Don’t believe us? Send us an email at
@@ -48,8 +53,8 @@ Schedulista has great customer support. Don’t believe us? Send us an email at
 
 = Schedulista Subscription =
 Schedulista requires a monthly subscription.  
-[>> View pricing
-trial](http://www.schedulista.com?utm_source=wordpress-plugin&utm_medium=link&utm_content=view_pricing)
+[>> View
+pricing](http://www.schedulista.com/?utm_source=wordpress-plugin&utm_medium=link&utm_content=view_pricing#pricing)
 
 == Installation ==
 
