@@ -71,6 +71,9 @@ WordPress form.
 
 == Changelog ==
 
+= 2.1 =
+* Fixed resizing issue
+
 = 2.0 =
 * Added support for the embedded widget
 * New "Schedule Now" button 
